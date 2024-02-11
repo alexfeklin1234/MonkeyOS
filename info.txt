@@ -1,0 +1,6 @@
+Monkey OS
+by Alex Feklin (08.09.2023)
+
+version: Monkey 23  
+linux kernel: 4.19.76
+BusyBox v1.36.0.git

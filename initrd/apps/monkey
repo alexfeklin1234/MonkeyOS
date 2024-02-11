@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# init
+chmod +x ./cache/monkey/run
+
+# call
+./cache/monkey/run

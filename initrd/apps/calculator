@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# init
+chmod +x ./cache/calculator/run
+
+# call
+./cache/calculator/run
